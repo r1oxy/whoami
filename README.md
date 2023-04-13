@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rion Mehmeti
 </h1>
-<h3 align="center">A self-taught FrontEnd Developer based in Prishtina
+<h3 align="center">A FrontEnd Developer based in Prishtina
 </h3>
 - 📫 Reach me rion.mehmeti09@gmail.com
 <h3 align="left">Connect with me:
